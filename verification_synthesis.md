@@ -363,6 +363,8 @@ If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
 - [JITty](http://wwwhome.cs.utwente.nl/~vdpol/jitty/README) (C): term rewriter with strategy annotations
 - [K](http://www.kframework.org/index.php/Main_Page): rewrite-based executable semantic framework (UIUC)
 - [ELAN](http://elan.loria.fr/): Rule based programming using strategic rewriting (LORIA)
+- [OBJ](https://cseweb.ucsd.edu/~goguen/sys/obj.html): family of algebraic programming and specification languages, based on order sorted equational logic
+- [Maude](http://maude.cs.illinois.edu/w/index.php/The_Maude_System): equational and rewriting logic specification and programming
 
 ## Open Systems
 
